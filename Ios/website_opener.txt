@@ -8,6 +8,6 @@ ENTER DELAY
 1000 
 GUI L 
 REM Insert your website below 
-STRING https://google.com
+STRING https://www.fairworkcenter.org/wp-content/uploads/2018/04/hacked-skull.jpg
 DELAY 1000 
 ENTER
